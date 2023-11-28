@@ -1,3 +1,5 @@
+
+## Intro  
 <div align="center">
 <img src="https://dresma.ai/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-1.gif" align="center" style="width: 100%" />
 </div>  
@@ -105,14 +107,14 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayachiFedi&hide_border=true&layout=compact" align="left" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayachiFedi&hide_border=true&layout=compact" align="center" /></div>  
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=TayachiFedi&show_icons=true&count_private=true&hide_border=true" align="right" style="width: 100%" /></div>  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=TayachiFedi&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
 
 <br/>  
 
 
-## Recent Blog Posts  
+
   
 
 <br/>  
@@ -122,10 +124,6 @@
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=TayachiFedi&&style=flat-square)  
-  
-
-<br/>  
-
   
 
 <br/>  

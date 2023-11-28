@@ -114,16 +114,15 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
 
   
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=TayachiFedi&&style=flat-square)  
+  
+
+<br/>  
+
   
 
 <br/>  

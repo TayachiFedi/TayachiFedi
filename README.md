@@ -1,7 +1,7 @@
 
 ## Intro  
 <div align="center">
-<img src="https://dresma.ai/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-1.gif" align="center" style="width: 100%" />
+<img src="https://dresma.ai/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-1.gif" align="center" height="" width="600" />
 </div>  
   
 
